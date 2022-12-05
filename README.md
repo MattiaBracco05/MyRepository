@@ -1,10 +1,14 @@
 Mattia Bracco
 
--📍PIEMONTE
+- 📍 PIEMONTE
 
--🏉 SERIE C RUGBY PLAYER
+- 🏫 ITIS G. RIVOIRA (I.I.S. DENINA)
 
--🏍️ Beta RR
+- 💻 INFORMATICA
+
+- 🏉 SERIE C RUGBY PLAYER
+
+- 🏍️ BETA RR
 
 Quando ti dicono non puoi farcela ti stanno ostrando i loro limiti, non i tuoi !
 
