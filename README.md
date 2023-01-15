@@ -6,7 +6,7 @@ Mattia Bracco
 
 - 💻 INFORMATICA
 
-- 🏉 SERIE C RUGBY PLAYER
+- 🏉 RUGBY PLAYER
 
 - 🏍️ BETA RR
 
