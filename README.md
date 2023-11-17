@@ -24,8 +24,8 @@
 ###
 
 <p align="left">
-  <br>-🔭 Studio informatica presso "ITIS G. Rivoira"
-  <br>-⚡ Nel mio tempo libero gioco a rugby e vado in moto
+  <br>🔭 Studio informatica presso "ITIS G. Rivoira"
+  <br>🏉 Rugby Player
 </p>
 
 ###
