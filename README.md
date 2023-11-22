@@ -30,13 +30,6 @@
 
 ###
 
-<!-- COLLEGAMENTI SOCIAL -->
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instangram Logo"  />
-</div>
-
-###
-
 <!-- LINGUAGGI -->
 <h3 align="left">🛠 Language and tools</h3>
 
