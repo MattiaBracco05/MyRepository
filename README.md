@@ -30,6 +30,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/MattiaBracco05/MattiaBracco05/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!-- SOCIAL -->
 <div align="left">
   <a href="https://www.instagram.com/matti_bracco/" target="_blank">
