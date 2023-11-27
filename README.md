@@ -30,11 +30,6 @@
 
 ###
 
-<!-- ANIMAZIONE SNAKE -->
-<img src="https://github.com/MattiaBracco05/MattiaBracco/blob/fe88a6f8044432fb51410c8128f747701411eb34/snake.svg" alt="Snake animation" />
-
-###
-
 <!-- SOCIAL -->
 <div align="left">
   <a href="https://www.instagram.com/matti_bracco/" target="_blank">
@@ -43,6 +38,13 @@
 </div>
 
 ###
+
+<!-- ANIMAZIONE SNAKE -->
+<div align="center">
+  <img src="https://github.com/MattiaBracco05/MattiaBracco/blob/fe88a6f8044432fb51410c8128f747701411eb34/snake.svg" alt="Snake animation" />
+</div>
+###
+
 
 <!-- STATISTICHE -->
 <div align="center">
