@@ -1,7 +1,7 @@
 
 <!-- GIF -->
 <div align="center">
-  <img height="150" src="https://github.com/MattiaBracco05/MattiaBracco/blob/e7fbe257b6013aa0cac44fbbea743bc82996f995/giphy.gif"  />
+  <img height="150" src="https://github.com/MattiaBracco05/MattiaBracco/blob/e7fbe257b6013aa0cac44fbbea743bc82996f995/giphy.gif"/>
 </div>
 
 ###
